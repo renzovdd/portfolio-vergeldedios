@@ -43,6 +43,10 @@ body{
 	padding-right: 20px;
 }
 
+#contact-section{
+	background-color: black;
+	color: whitesmoke;
+}
 /*.social-media{
 	height: 5px ;
 	width: 5px;
