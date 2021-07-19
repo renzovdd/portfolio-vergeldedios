@@ -1,0 +1,49 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: "Raleway",sans-serif;
+}
+#button-send{
+	width: 100%;
+}
+
+#gmap_canvas{
+	height: 50vh;
+	width: 100%;
+}
+
+#header{
+	margin-top: 80px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: black;
+	color: whitesmoke;
+}
+
+#nav-bar{
+	
+	opacity: 0.8;
+
+}
+#Projects {
+	/*background: rgba(0, 0, 0, 0.6);black;*/
+	background-image: url(./images/mountain.jpg);
+	color: whitesmoke;
+}
+#profile-picture{
+	padding-left: 50px;
+	padding-right: 20px;
+}
+
+/*.social-media{
+	height: 5px ;
+	width: 5px;
+}*/

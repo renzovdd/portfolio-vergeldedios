@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: "Raleway",sans-serif;
+}
+#button-send{
+	width: 100%;
+}
+
+#gmap_canvas{
+	height: 60vh;
+	width: 100%;
+}
+
+#header{
+	margin-top: 80px;
+}
+
+#nav-bar{
+	
+	opacity: 0.8;
+
+}
+#Projects {
+	background-color: black;
+	background-image: url();
+	color: whitesmoke;
+}
+
+/*.social-media{
+	height: 5px ;
+	width: 5px;
+}*/
